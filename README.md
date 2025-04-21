@@ -9,11 +9,11 @@ Este proyecto presenta una Header para una galería de arte.
 </div>
 
 <div align="center">
-  <img src="resultado1_tablet.png" alt="Header de un negocio de belleza" width="100%"/>
+  <img src="resultado1_tablet.png" alt="Header de un negocio de belleza" width="65%"/>
 </div>
 
 <div align="center">
-  <img src="resultado1_mobile.png" alt="Header de un negocio de belleza" width="100%"/>
+  <img src="resultado1_mobile.png" alt="Header de un negocio de belleza" width="40%"/>
 </div>
 ---
 
